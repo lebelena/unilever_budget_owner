@@ -1,0 +1,10 @@
+langs: ['ru', 'en']
+
+docs-viewer:
+  langs: ['ru', 'en']
+  search:
+    provider: local          
+    tolerance: 2            
+    confidence: phrased      
+  
+allowHTML: true
