@@ -18,4 +18,4 @@ items:
   - name: Товары
     href: goods_bud_owner.md
   - name: Отчёты
-    href: goods_bud_owner.md  
+    href: report.md  
