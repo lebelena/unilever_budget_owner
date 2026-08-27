@@ -5,17 +5,22 @@ items:
     href: about.md 
   - name: Номенклатура
     href: nomenc_bud_owner.md
-  - name: Пользователи
-    href: users.md
-  - name: Доступ
-    href: access.md  
   - name: Поручение
-    href: poruchenie.md   
+    href: poruchenie.md 
   - name: Заявки
-    href: tasks_bud_owner.md   
+    href: tasks_bud_owner.md
   - name: Документы поступления и списания
     href: docs_bud_owner.md
   - name: Товары
     href: goods_bud_owner.md
   - name: Отчёты
-    href: report.md  
+    href: report.md 
+  - name: Пользователи
+    href: users.md
+  - name: Доступ
+    href: access.md  
+  - name: Дополнительно
+    href: dopolnitelno.md  
+    
+  
+ 

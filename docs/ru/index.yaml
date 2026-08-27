@@ -1,21 +1,18 @@
 title: LCP for Unilever
-description: Пользовательская документация для аккаунт-менеджеров
+description: Пользовательская документация для владельцев бюджета
 links:
   - title: Начало работы
     href: about.md
-    description: Познакомьтесь с  функциональными возможностями платформы
+    description: Обзор главной страницы пользователя
   - title: Номенклатура
     href: nomenc_bud_owner.md
-    description: Научитесь работать с номенклатурой
-  - title: Пользователи
-    href: users.md
-    description: Добавляйте новых пользователей
-  - title: Доступ
-    href: access.md
-    description: Просматривайте уровни доступа и структуру отделов    
+    description: Взаимодействие с товарами на стоке
+  - title: Поручение
+    href: poruchenie.md
+    description: Создание и продление поручений
   - title: Заявки
-    href: nomenc_bud_owner.md
-    description: Создание, редактирование и отмена заявок    
+    href: tasks_bud_owner.md
+    description: Создание, редактирование и отмена заявок
   - title: Документы поступления и списания
     href: docs_bud_owner.md
     description: Просмотр документов поступления и списания
@@ -24,10 +21,17 @@ links:
     description: Просмотр актуальных товарных остатков на складе
   - title: Отчёты
     href: report.md
-    description: Все отчёты и биллинги в одном месте
-  - title: Поручение
-    href: poruchenie.md
-    description: Создание и продление поручений      
+    description: Просмотр ежедневных отчётов и биллингов
+  - title: Пользователи
+    href: users.md
+    description: Добавление, редактирование и деактивация пользователей
+  - title: Доступ
+    href: access.md
+    description: Уровни доступа и структура отделов и брендов  
+  - title: Дополнительно
+    href: dopolnitelno.md
+    description: Дополнительные сведения о системе 
+      
 
 
 
